@@ -14,7 +14,7 @@ const galleryData = [
         category: 'HS'
     },
     {
-        image: './assets/img/WAI/1.png',
+        image: './assets/img/wai/1.png',
         category: 'WAI'
     },
     {
@@ -30,7 +30,7 @@ const galleryData = [
         category: 'HS'
     },
     {
-        image: './assets/img/WAI/2.png',
+        image: './assets/img/wai/2.png',
         category: 'WAI'
     },
     {
@@ -46,7 +46,7 @@ const galleryData = [
         category: 'HS'
     },
     {
-        image: './assets/img/WAI/3.png',
+        image: './assets/img/wai/3.png',
         category: 'WAI'
     },
     {
@@ -62,7 +62,7 @@ const galleryData = [
         category: 'HS'
     },
     {
-        image: './assets/img/WAI/4.png',
+        image: './assets/img/wai/4.png',
         category: 'WAI'
     },
     {
@@ -78,7 +78,7 @@ const galleryData = [
         category: 'HS'
     },
     {
-        image: './assets/img/WAI/5.png',
+        image: './assets/img/wai/5.png',
         category: 'WAI'
     },
     {
@@ -94,7 +94,7 @@ const galleryData = [
         category: 'HS'
     },
     {
-        image: './assets/img/WAI/6.png',
+        image: './assets/img/wai/6.png',
         category: 'WAI'
     },
     {
@@ -110,7 +110,7 @@ const galleryData = [
         category: 'HS'
     },
     {
-        image: './assets/img/WAI/7.png',
+        image: './assets/img/wai/7.png',
         category: 'WAI'
     },
     {
@@ -126,7 +126,7 @@ const galleryData = [
         category: 'HS'
     },
     {
-        image: './assets/img/WAI/8.png',
+        image: './assets/img/wai/8.png',
         category: 'WAI'
     },
     {
@@ -142,7 +142,7 @@ const galleryData = [
         category: 'HS'
     },
     {
-        image: './assets/img/WAI/9.png',
+        image: './assets/img/wai/9.png',
         category: 'WAI'
     },
     {
@@ -155,7 +155,7 @@ const galleryData = [
     },
 
     {
-        image: './assets/img/WAI/10.png',
+        image: './assets/img/wai/10.png',
         category: 'WAI'
     },
     {
@@ -168,7 +168,7 @@ const galleryData = [
     },
 
     {
-        image: './assets/img/WAI/11.png',
+        image: './assets/img/wai/11.png',
         category: 'WAI'
     },
     {
@@ -181,7 +181,7 @@ const galleryData = [
     },
 
     {
-        image: './assets/img/WAI/12.png',
+        image: './assets/img/wai/12.png',
         category: 'WAI'
     },
 ];
